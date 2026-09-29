@@ -133,7 +133,7 @@ export default function DashboardPage() {
           <span>·</span>
           <span>Meeting Prep &amp; Relationship Agent</span>
           <span>·</span>
-          <span>Hackathon Build 2026</span>
+          {/*<span>Hackathon Build 2026</span>*/}
         </footer>
       </main>
     </div>
